@@ -24,3 +24,5 @@ outputs/
 *.log
 *.pem
 *.key
+
+.claude/
